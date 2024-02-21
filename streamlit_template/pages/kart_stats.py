@@ -9,7 +9,7 @@ st.write("What Kart Configuration is Best?")
 
 # Part 1: Setup and Connected to Dataset
 
-df_kart = pd.read_csv('data/kart_stats.csv')
+df_kart = pd.read_csv('streamlit_template/data/kart_stats.csv')
 # st.dataframe(df_kart)
 
 
